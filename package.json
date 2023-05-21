@@ -1,0 +1,25 @@
+{
+  "name": "txema-r-js-footer",
+  "version": "0.1.0",
+  "description": "Este módulo permite generar un pie de página dinámico para aplicaciones JS con un año actualizado y nombre. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/txemaR/txema-r-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Txema R",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/txemaR/txema-r-js-footer/issues"
+  },
+  "homepage": "https://github.com/txemaR/txema-r-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
